@@ -1,4 +1,4 @@
-"""stripping whitespace using the methods 'rstrip()' 'lstrip() and 'strip()'"""
+# stripping whitespace using the methods 'rstrip()' 'lstrip() and 'strip()'
 
 favorite_language = "python "
 favorite_language = favorite_language.rstrip()

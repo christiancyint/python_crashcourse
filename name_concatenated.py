@@ -1,4 +1,4 @@
-"""concatenation of first_name and last_name variables and including additional strings""" 
+# concatenation of first_name and last_name variables and including additional strings 
 
 first_name = "ada"
 last_name = "loveface"

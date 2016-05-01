@@ -1,4 +1,4 @@
-"""adding whitespaces using \t to tab and \n to add a new line"""
+# adding whitespaces using \t to tab and \n to add a new line
 
 print "\tPython"
 

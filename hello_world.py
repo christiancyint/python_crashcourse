@@ -1,4 +1,4 @@
-"""prints a message variable"""
+# prints a message variable
 
 message = "Hello python world!"
 print message

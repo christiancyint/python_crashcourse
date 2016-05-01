@@ -1,4 +1,4 @@
-"""a program that prints multiple simple messages"""
+# a program that prints multiple simple messages
 
 message_1 = "This is my first simple message."
 message_2 = "This is my second simple message."

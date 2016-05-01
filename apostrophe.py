@@ -1,4 +1,4 @@
-"""a program to practice proper python sytanx using single and double quotes"""
+# a program to practice proper python sytanx using single and double quotes
 
 message = "One of Python's strengths is its diverse community."
 print message
