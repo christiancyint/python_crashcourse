@@ -16,3 +16,13 @@ print message_3
 climber = "anonymous"
 famous_quote = "Mountain climbing is extended periods of intense boredom, interrupted by occasional moments of sheer terror."
 print famous_quote + " -- " + climber.title()
+
+"""code to practice creating and eliminating whitespaces"""
+
+climber_names = "climbers:\n\tjohn bachar\n\talex honnold\n\tdean potter"
+print climber_names
+
+climber_1 = " john long "
+print climber_1.strip()
+print climber_1.lstrip()
+print climber_1.rstrip()
