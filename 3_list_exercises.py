@@ -21,3 +21,8 @@ climbing_destinations = ["boat rock", "rocktown", "new river gorge", "rumney roc
 
 print "\nMan, I'd love to vist " + climbing_destinations[-1] + "!"
 print "Man, I need to get back to " + climbing_destinations[0] + "!"
+
+# Exercise 3-4: Guest List
+
+my_guests = ['lincoln', 'nixon', 'washington']
+print "Hello, Mr." + my_guests[0].title() + " , I'd like you to join me."

@@ -37,3 +37,10 @@ del motorcycles[1]
 print motorcycles
 
 # You can use the pop() method to remove a value from a list, but still use taht value later on
+
+motorcycles = ["honda", "yamaha", "suzuki"]
+print (motorcycles)
+
+popped_motocycles = motorcycles.pop()
+print motorcycles
+print popped_motocycles
