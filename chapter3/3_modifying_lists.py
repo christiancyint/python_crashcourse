@@ -31,7 +31,7 @@ motorcycles = ["honda", "yamaha", "suzuki"]
 motorcycles.insert(0, 'ducati')
 print motorcycles
 
-# You can remove values from a list by using the del functon. This removes a specific index value. Remove() removes the first matching value, not an index. 
+# You can remove values from a list by using the del functon. This removes a specific index value. Remove() removes the first matching value, not an index. Reference: http://stackoverflow.com/questions/11520492/difference-between-del-remove-and-pop-on-lists.  
 
 del motorcycles[1]
 print motorcycles
