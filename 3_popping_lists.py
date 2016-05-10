@@ -1,4 +1,4 @@
-# You can use the pop() method to remove a value from a list, but still use taht value later on
+# You can use the pop() method to remove a value from a list, but still use that value later on
 
 motorcycles = ["honda", "yamaha", "suzuki"]
 print (motorcycles)
@@ -18,7 +18,7 @@ print "\nThe first motorcycle I owned was a " + first_owned.title() + "."
 
 # Remember that each time you use pop(), the item you work with is no longer stored in the list. When you want to delete an item from a list and not use that item in any way, use the del statement; if you want to use an item as you remove it, use the pop() method.
 
-# Removing a value using remove()
+# Removing a value using remove(). This removes the first matching value, not an index. Use del to remove a specific index. 
 
 motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati']
 print (motorcycles)

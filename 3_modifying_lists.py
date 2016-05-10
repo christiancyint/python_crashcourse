@@ -31,12 +31,12 @@ motorcycles = ["honda", "yamaha", "suzuki"]
 motorcycles.insert(0, 'ducati')
 print motorcycles
 
-# You can remove values from a list by using the method
+# You can remove values from a list by using the del functon. This removes a specific index value. Remove() removes the first matching value, not an index. 
 
 del motorcycles[1]
 print motorcycles
 
-# You can use the pop() method to remove a value from a list, but still use taht value later on
+# You can use the pop() method to remove a value from a list, but still use thatt value later on
 
 motorcycles = ["honda", "yamaha", "suzuki"]
 print (motorcycles)
