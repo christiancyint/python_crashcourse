@@ -16,3 +16,5 @@ print locations
 
 locations.reverse() # reversing the order of the list again back to its originial order.
 print locations
+
+print "Okay I'm leaving off here and will return."
